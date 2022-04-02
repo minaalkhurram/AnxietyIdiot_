@@ -1,0 +1,115 @@
+body{
+    background-image: url(b2.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+html{
+    height:100%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    font-weight: lighter;
+    font-size: 40px;
+    color:rgb(246, 248, 85);
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-size: 13px;
+    color:rgb(246, 248, 85);
+ 
+
+}
+.s
+{
+    color: blue;
+}
+.box1{
+    width:450px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;;
+    text-align: center;  
+    box-shadow: 10px 10px rgba(44, 44, 44, 0.555);
+    background-color: rgba(66, 65, 65, 0.836);
+    color:blue;
+}
+  
+div p{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-size: 13px;
+    color:rgb(246, 248, 85);
+}
+a
+{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-size: 13px;
+    color:rgb(246, 248, 85);
+}
+#class1 a
+{
+    color:blue;
+}
+
+.box2
+{
+    width:450px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;;
+    text-align: center;  
+    box-shadow: 10px 10px rgba(44, 44, 44, 0.555);
+    background-color: rgba(66, 65, 65, 0.836);
+}
+
+.box2:hover
+{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: url(image1.jfifx);
+    background-position: center;
+
+}
+.box1:hover
+{
+  
+    background-image: url(images/BEANS.jpg);
+    background-position: center;
+
+}
+
+header{
+    
+    padding-bottom: 100px;
+}
+nav{
+    width:650px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 10px 10px rgba(44, 44, 44, 0.555);
+    background-color: rgba(66, 65, 65, 0.836);
+
+}
+nav:hover
+
+{
+    background-image: url(eye1.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
